@@ -27,7 +27,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'backend-u8xj.onrender.com',
+    "backend-ag4d.onrender.com",
 ]
 
 
@@ -105,6 +105,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://localhost:3000",
+    "https://frontend-kappa-orpin-77.vercel.app",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
